@@ -1,14 +1,5 @@
 # scroll_glow_color
 
-A new Flutter package project.
+#### Change color of glow effect of scrollable widgets or remove the glow effect
 
-## Getting Started
-
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![photo4972372527678597406](https://user-images.githubusercontent.com/3827308/79910597-6270b080-83f5-11ea-941a-e865cbf26248.jpg)
