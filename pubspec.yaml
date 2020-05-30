@@ -1,6 +1,6 @@
 name: scroll_glow_color
 description: Change color of glow effect of scrollable widgets or remove the glow effect
-version: 0.1.1
+version: 0.1.2
 author: Emanuel Braz - fastencoding@gmail.com
 homepage: https://github.com/emanuel-braz/scroll_glow_color.git
 

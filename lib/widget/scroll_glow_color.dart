@@ -14,15 +14,13 @@ class _GlowBehavior extends ScrollBehavior {
     switch (Theme.of(context).platform) {
       case TargetPlatform.iOS:
         return child;
-      case TargetPlatform.android:
-      case TargetPlatform.fuchsia:
+      default:
         return GlowingOverscrollIndicator(
           child: child,
           axisDirection: axisDirection,
           color: color ?? Theme.of(context).accentColor,
         );
     }
-    return null;
   }
 }
 
